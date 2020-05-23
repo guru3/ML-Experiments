@@ -10,3 +10,5 @@ Trying different things out usually inspired from articles on machine learning t
 ##### Diversity of models is what make ensembling work
 
 ##### Hyperparameter optimization is technically a way to overfit validation data
+
+##### VAEs  are  great  for  learning  latent spaces that are well structured, where specific directions encode a meaningful axis of variation in the data. GANs generate images that can potentially be highly realistic, but the latent space they come from may not have as much structure and continuity.
